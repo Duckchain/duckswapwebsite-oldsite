@@ -48,14 +48,14 @@ export const Ducknomics = () => {
                                 <span className="icon icon-checkmark" />
                                 5% of the tokens for reflection and burn to dead wallet
                             </li>
-                            <li className="flex flex-row gap-2 items-center">
+                            {/* <li className="flex flex-row gap-2 items-center">
                                 <span className="icon icon-checkmark" />
                                 LP tokens were burnt
                             </li>
                             <li className="flex flex-row gap-2 items-center">
                                 <span className="icon icon-checkmark" />
                                 Contract - 0x20364f78385ec4f46f33ee7795330dd815a87b1c
-                            </li>
+                            </li> */}
                         </ul>
                         <p className="w-[328px] mt-8 md:mt-0 md:w-[825px]">
                             9% of the supply is being held in 2 multi-sig wallets only to be used as tokens for future centralized exchange listings, bridges, and liquidity pools. If there is something left in the end of the year, they will be spent upon community votes.
