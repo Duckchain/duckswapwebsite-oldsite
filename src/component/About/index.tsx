@@ -22,7 +22,7 @@ export const About = () => {
                         </p>
                         <div className="flex flex-col justify-start items-start gap-5 pb-4">
                             <h2 className="font-freckle w-[328px] md:w-[540px]">
-                                New token in town. No presale, no taxes. $Duck Memes rule.
+                                New token in town. No presale, fair tax. $Duck Memes rule.
                             </h2>
                             <p>
                                 In Duck we Trust. Let's have fun and enjoy the party!

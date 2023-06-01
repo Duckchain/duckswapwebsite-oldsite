@@ -11,9 +11,9 @@ export const Ducknomics = () => {
                             <span className="icon icon-piggy-bank" />
                             <div className="h-100 flex flex-col justify-center">
                                 <span className="text-big">
-                                    Taxes
+                                    Marketing
                                 </span>
-                                <span className="num mb-0 ml-1">N0</span>
+                                <span className="num mb-0 ml-1">5%</span>
                             </div>
                         </div>
                         <div className="holder-icon mb-5">
@@ -43,6 +43,10 @@ export const Ducknomics = () => {
                             <li className="flex flex-row gap-2 items-center">
                                 <span className="icon icon-checkmark" />
                                 91% of the tokens were sent to the liquidity pool
+                            </li>
+                            <li className="flex flex-row gap-2 items-center">
+                                <span className="icon icon-checkmark" />
+                                5% of the tokens for reflection and burn to dead wallet
                             </li>
                             <li className="flex flex-row gap-2 items-center">
                                 <span className="icon icon-checkmark" />
