@@ -54,17 +54,17 @@ export const Navbar = () => {
 
                 <ul className="social-icons flex flex-row justify-between items-center mr-3 md:mr-0">
                     <li>
-                        <a href="https://t.me/duckviptoken" target="_blank">
+                        <a href="https://t.me/DuckBSc_c" target="_blank">
                             <span className="icon icon-telegram" />
                         </a>
                     </li>
                     <li>
-                        <a href="https://twitter.com/Uglyduckwtf" target="_blank">
+                        <a href="https://twitter.com/duckbsc" target="_blank">
                             <span className="icon icon-twitter" />
                         </a>
                     </li>
                     <li>
-                        <a href="https://www.instagram.com/uglyduckwtf/" target="_blank">
+                        <a href="https://www.instagram.com/duckbsc/" target="_blank">
                             <span className="icon icon-instagram" />
                         </a>
                     </li>

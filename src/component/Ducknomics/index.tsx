@@ -37,28 +37,33 @@ export const Ducknomics = () => {
                     </div>
                     <div className="mb-4 w-[328px] md:w-fit">
                         <h2 className="mb-4 font-freckle">
-                            Supply - 88,000,000,000,000
+                            Supply - 500,000,000,000,000
                         </h2>
                         <ul className="check-list text-big" style={{ wordBreak: 'break-all' }}>
                             <li className="flex flex-row gap-2 items-center">
                                 <span className="icon icon-checkmark" />
-                                91% of the tokens were sent to the liquidity pool
+                                60% burnt with launching
                             </li>
                             <li className="flex flex-row gap-2 items-center">
                                 <span className="icon icon-checkmark" />
-                                5% of the tokens for reflection and burn to dead wallet
+                                Tax 10% buy and sell
                             </li>
-                            {/* <li className="flex flex-row gap-2 items-center">
+                            <li className="flex flex-row gap-2 items-center">
                                 <span className="icon icon-checkmark" />
-                                LP tokens were burnt
+                                5% reflection going dead wallet as well as it's included
                             </li>
+                            <li className="flex flex-row gap-2 items-center md:w-[720px]">
+                                <span className="icon icon-checkmark" />
+                                5% marketing and use if for any thin else beside marketing like CEX Listing
+                            </li>
+                            {/* 
                             <li className="flex flex-row gap-2 items-center">
                                 <span className="icon icon-checkmark" />
                                 Contract - 0x20364f78385ec4f46f33ee7795330dd815a87b1c
                             </li> */}
                         </ul>
                         <p className="w-[328px] mt-8 md:mt-0 md:w-[825px]">
-                            9% of the supply is being held in 2 multi-sig wallets only to be used as tokens for future centralized exchange listings, bridges, and liquidity pools. If there is something left in the end of the year, they will be spent upon community votes.
+                            
                         </p>
                     </div>
                 </div>
