@@ -46,6 +46,7 @@ export const Navbar = () => {
 
                 <div className="md:flex flex-row items-center justify-between hidden gap-6">
                     <a className="nav-link md:px-2" href="#about">About</a>
+                    <a className="nav-link md:px-2" href="#bridge">Bridge</a>
                     <a className="nav-link md:px-2" href="#party">How to BUY</a>
                     <a className="nav-link md:px-2" href="#duckonomics">Duckonomics</a>
                     <a className="nav-link md:px-2" href="#duckmap">Duckmap</a>
