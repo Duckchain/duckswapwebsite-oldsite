@@ -28,10 +28,10 @@ export const About = () => {
                                 In Duck we Trust. Let's have fun and enjoy the party!
                             </p>
                         </div>
-                        <div className="d-flex align-items-center justify-content-center justify-content-lg-start py-3 mb-3">
+                        {/* <div className="d-flex align-items-center justify-content-center justify-content-lg-start py-3 mb-3">
                             <a href="https://app.uniswap.org/#/swap?outputCurrency=0x20364f78385ec4f46f33ee7795330dd815a87b1c" target="_blank" className="btn btn-primary mr-2">Buy Now</a>
                             <a href="https://www.dextools.io/app/en/ether/pair-explorer/0xd7f2eadd511c51c60ad2566278ecc82fd8af50fd" target="_blank" className="btn btn-primary">Chart</a>
-                        </div>
+                        </div> */}
                         <ul className="mb-3">
                             <li>
                                 <a href="https://etherscan.io/tx/0xaa124aebed8ef13cb5588d50fcf5be010302f1bebf27981dc98fcff107da80f7" target="_blank" style={{ fontSize: '1rem' }} className="flex flex-row justify-between items-center gap-3">

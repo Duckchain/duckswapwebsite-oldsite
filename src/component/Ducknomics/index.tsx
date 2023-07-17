@@ -70,11 +70,11 @@ export const Ducknomics = () => {
                 <h3 className="text-center mt-3 font-freckle text-[1.75rem]">
                     It's ducking simple.
                 </h3>
-                <div className="text-center mt-10">
+                {/* <div className="text-center mt-10">
                     <div className="text-center">
                         <a href="https://app.uniswap.org/#/swap?outputCurrency=0x20364f78385ec4f46f33ee7795330dd815a87b1c" target="_blank" className="btn btn-primary">Buy Now</a>
                     </div>
-                </div>
+                </div> */}
             </div>
         </section>
     )

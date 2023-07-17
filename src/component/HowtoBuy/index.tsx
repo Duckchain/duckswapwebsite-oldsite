@@ -28,7 +28,7 @@ export const Buy = () => {
                                         <h5>HODL AND JOIN THE POND</h5>
                                         <p>Follow us on twitter, join discord and quack with us! We are ducking over!</p>
                                     </div>
-                                    <a href="https://app.uniswap.org/#/swap?outputCurrency=0x20364f78385ec4f46f33ee7795330dd815a87b1c" target="_blank" className="btn btn-primary">Buy Now</a>
+                                    {/* <a href="https://app.uniswap.org/#/swap?outputCurrency=0x20364f78385ec4f46f33ee7795330dd815a87b1c" target="_blank" className="btn btn-primary">Buy Now</a> */}
                                 </div>
                             </div>
                         {/* </div> */}
