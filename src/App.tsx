@@ -7,7 +7,7 @@ import { Buy } from "./component/HowtoBuy"
 import { JoinUs } from "./component/Joinus"
 import { NavbarMob } from "./component/NavbarMob"
 import { Utilities } from "./component/Utilities"
-
+import { BridgeSelect } from "./component/Bridge/Select"
 
 function App() {
 
@@ -18,6 +18,7 @@ function App() {
       <Buy />
       <Ducknomics />
       <Utilities />
+      <BridgeSelect />
       <Duckmap />
       <JoinUs />
       <Footer />

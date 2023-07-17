@@ -46,10 +46,10 @@ export const Navbar = () => {
 
                 <div className="md:flex flex-row items-center justify-between hidden gap-6">
                     <a className="nav-link md:px-2" href="#about">About</a>
-                    <a className="nav-link md:px-2" href="#bridge">Bridge</a>
                     <a className="nav-link md:px-2" href="#party">How to BUY</a>
                     <a className="nav-link md:px-2" href="#duckonomics">Duckonomics</a>
                     <a className="nav-link md:px-2" href="#duckmap">Duckmap</a>
+                    <a className="nav-link md:px-2" href="#bridge">Bridge</a>
                     <a className="nav-link md:px-2" href="https://etherscan.io/token/0x20364f78385ec4f46f33ee7795330dd815a87b1c" target="_blank">Contract</a>
                 </div>
 
