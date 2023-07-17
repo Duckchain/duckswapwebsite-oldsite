@@ -34,7 +34,7 @@ export const About = () => {
                         </div> */}
                         <ul className="mb-3">
                             <li>
-                                <a href="https://etherscan.io/tx/0xaa124aebed8ef13cb5588d50fcf5be010302f1bebf27981dc98fcff107da80f7" target="_blank" style={{ fontSize: '1rem' }} className="flex flex-row justify-between items-center gap-3">
+                                <a href="" target="_blank" style={{ fontSize: '1rem' }} className="flex flex-row justify-between items-center gap-3">
                                     <span>Contract Renounced</span>
                                     <span className="icon icon-chevron-right" />
                                 </a>
@@ -42,7 +42,7 @@ export const About = () => {
                         </ul>
                         <ul className="">
                             <li>
-                                <a href="https://etherscan.io/tx/0xa93e871db091134f718002b87baf590352e64840363436d62d4abfab146b8f2a" target="_blank" style={{ fontSize: '1rem' }} className="flex flex-row justify-between items-center gap-3">
+                                <a href="" target="_blank" style={{ fontSize: '1rem' }} className="flex flex-row justify-between items-center gap-3">
                                     Liquidity burnt
                                     <span className="icon icon-chevron-right" />
                                 </a>
