@@ -56,11 +56,11 @@ export const Ducknomics = () => {
                                 <span className="icon icon-checkmark" />
                                 5% marketing and use if for any thin else beside marketing like CEX Listing
                             </li>
-                            {/* 
+                            
                             <li className="flex flex-row gap-2 items-center">
                                 <span className="icon icon-checkmark" />
-                                Contract - 0x20364f78385ec4f46f33ee7795330dd815a87b1c
-                            </li> */}
+                                {/* Contract - 0x20364f78385ec4f46f33ee7795330dd815a87b1c */}
+                            </li>
                         </ul>
                         <p className="w-[328px] mt-8 md:mt-0 md:w-[825px]">
                             
@@ -70,11 +70,11 @@ export const Ducknomics = () => {
                 <h3 className="text-center mt-3 font-freckle text-[1.75rem]">
                     It's ducking simple.
                 </h3>
-                {/* <div className="text-center mt-10">
+                <div className="text-center mt-10">
                     <div className="text-center">
-                        <a href="https://app.uniswap.org/#/swap?outputCurrency=0x20364f78385ec4f46f33ee7795330dd815a87b1c" target="_blank" className="btn btn-primary">Buy Now</a>
+                        <a href="#" target="_blank" className="btn btn-primary">Buy Now</a>
                     </div>
-                </div> */}
+                </div>
             </div>
         </section>
     )

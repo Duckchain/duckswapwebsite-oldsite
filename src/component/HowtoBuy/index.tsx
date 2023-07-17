@@ -22,13 +22,15 @@ export const Buy = () => {
                                         <h5>SEND BSC TO WALLET</h5>
                                         <p>To buy $DUCK BSC, you'll need BSC in your wallet to swap. Buy BSC directly in MetaMask, transfer from another wallet, or buy on an exchange and withdraw it to your wallet. Use the BSC-20 network.</p>
                                         <h5>CONNECT TO PANCAKESWAP</h5>
-                                        <p>You can connect to Pancakeswap directly above. We've embedded Pancakeswap on duckbsc.vip to save you a couple of steps and take you straight to the correct pair to buy $DUCK BSC. If using your own browser, make sure it's the official PancakeSwap site, select token, and paste the official $DUCK BSC token contract address: <strong>0x20364F78385eC4F46F33ee7795330Dd815a87B1c</strong></p>
+                                        <p>You can connect to Pancakeswap directly above. We've embedded Pancakeswap on duckbsc.vip to save you a couple of steps and take you straight to the correct pair to buy $DUCK BSC. If using your own browser, make sure it's the official PancakeSwap site, select token, and paste the official $DUCK BSC token contract address: 
+                                            {/* <strong>0x20364F78385eC4F46F33ee7795330Dd815a87B1c</strong> */}
+                                        </p>
                                         <h5>SWAP BSC FOR $DUCK BSC</h5>
                                         <p>Once you have BSC in your wallet, swap your desired amount for $DUCK BSC. Make sure you have enough BSC left over to cover gas fees. Review the transaction details and confirm. You're now part of the ducking party</p>
                                         <h5>HODL AND JOIN THE POND</h5>
                                         <p>Follow us on twitter, join discord and quack with us! We are ducking over!</p>
                                     </div>
-                                    {/* <a href="https://app.uniswap.org/#/swap?outputCurrency=0x20364f78385ec4f46f33ee7795330dd815a87b1c" target="_blank" className="btn btn-primary">Buy Now</a> */}
+                                    <a href="#" target="_blank" className="btn btn-primary">Buy Now</a>
                                 </div>
                             </div>
                         {/* </div> */}
