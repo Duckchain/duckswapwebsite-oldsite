@@ -32,7 +32,7 @@ export const About = () => {
                             <a href="#" className="btn btn-primary mr-2">Buy Now</a>
                             <a href="#" className="btn btn-primary">Chart</a>
                         </div>
-                        <ul className="mb-3">
+                        {/* <ul className="mb-3">
                             <li>
                                 <a href="" target="_blank" style={{ fontSize: '1rem' }} className="flex flex-row justify-between items-center gap-3">
                                     <span>Contract Renounced</span>
@@ -47,7 +47,7 @@ export const About = () => {
                                     <span className="icon icon-chevron-right" />
                                 </a>
                             </li>
-                        </ul>
+                        </ul> */}
                     </div>
                 </div>
             </div>
