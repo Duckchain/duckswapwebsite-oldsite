@@ -33,10 +33,11 @@ export const About = () => {
 
                                 🌟 Payments: Simplify your transactions with Duckcoin's payment system, allowing you to send and receive funds effortlessly.  <br />
 
-                                🌟 Wallets and Games: Explore a range of secure wallets and engaging games designed to enhance your Duckcoin experience. 💥The NFT ticketing platform brings huge usecase for NFTs holders around the 🌎 world.<br /><br />
+                                🌟 Wallets and Games: Explore a range of secure wallets and engaging games designed to enhance your Duckcoin experience. <br /> 💥The NFT ticketing platform brings huge usecase for NFTs holders around the 🌎 world.<br /><br />
 
                                 The Duckswap Bridge is live and waiting for you! <a href="https://duckcoin.xyz">https://duckcoin.xyz/</a>
                             </p>
+                            <p></p>
                         </div>
                         <div className="flex flex-col justify-start items-start gap-5 pb-4">
                             <h2 className="font-freckle w-[328px] md:w-[540px]">
