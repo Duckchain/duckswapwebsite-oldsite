@@ -50,7 +50,7 @@ export const Navbar = () => {
                     <a className="nav-link md:px-2" href="#duckonomics">Duckonomics</a>
                     <a className="nav-link md:px-2" href="#duckmap">Duckmap</a>
                     <a className="nav-link md:px-2" href="#bridge">Bridge</a>
-                    <a className="nav-link md:px-2" href="#" target="_blank">Contract</a>
+                    <a className="nav-link md:px-2" href="https://bscscan.com/token/0x161354397744fdE0eA782285C45c5B7902d0a7Ea" target="_blank">Contract</a>
                 </div>
 
                 <ul className="social-icons flex flex-row justify-between items-center mr-3 md:mr-0">
