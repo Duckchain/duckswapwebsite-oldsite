@@ -4,7 +4,7 @@ export const About = () => {
 
     return (
         <>
-            <div className="flex flex-col md:flex-row items-center md:h-screen w-full justify-center md:justify-between md:px-32 bg-[#f0b42c]">
+            <div className="flex flex-col md:flex-row items-center md:h-screen w-full justify-center md:justify-between md:px-32 bg-[#f0b42c]" id="about">
 
                 <div className="order-2 lg:order-1 mt-8 md:mt-0">
                     {/* <div className="md:gif-holder"> */}
