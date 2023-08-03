@@ -37,12 +37,12 @@ export const Ducknomics = () => {
                     </div>
                     <div className="mb-4 w-[328px] md:w-fit">
                         <h2 className="mb-4 font-freckle">
-                            Supply - 500,000,000,000,000
+                            Supply - 500,000,000,000,000,000
                         </h2>
                         <ul className="check-list text-big" style={{ wordBreak: 'break-all' }}>
                             <li className="flex flex-row gap-2 items-center">
                                 <span className="icon icon-checkmark" />
-                                60% burnt with launching
+                                50% burnt already : <a href="https://bscscan.com/tx/0x98233c5a23f81a8aee328f282b805ef39ba8d3b75148f8cebd9c7c2fbf63823f">BCS Scan Burn Tx</a>
                             </li>
                             <li className="flex flex-row gap-2 items-center">
                                 <span className="icon icon-checkmark" />
@@ -56,15 +56,7 @@ export const Ducknomics = () => {
                                 <span className="icon icon-checkmark" />
                                 5% marketing and use if for any thin else beside marketing like CEX Listing
                             </li>
-                            
-                            <li className="flex flex-row gap-2 items-center">
-                                <span className="icon icon-checkmark" />
-                                {/* Contract - 0x20364f78385ec4f46f33ee7795330dd815a87b1c */}
-                            </li>
                         </ul>
-                        <p className="w-[328px] mt-8 md:mt-0 md:w-[825px]">
-                            
-                        </p>
                     </div>
                 </div>
                 <h3 className="text-center mt-3 font-freckle text-[1.75rem]">
