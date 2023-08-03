@@ -10,6 +10,18 @@ export const Utilities = () => {
                         <ul className="check-list text-big" style={{ wordBreak: 'break-all' }}>
                             <li className="flex flex-row gap-2 items-center">
                                 <span className="icon icon-checkmark" />
+                                Duckswap
+                            </li>
+                            <li className="flex flex-row gap-2 items-center">
+                                <span className="icon icon-checkmark" />
+                                Bridge
+                            </li>
+                            <li className="flex flex-row gap-2 items-center">
+                                <span className="icon icon-checkmark" />
+                                NFTs
+                            </li>
+                            <li className="flex flex-row gap-2 items-center">
+                                <span className="icon icon-checkmark" />
                                Lottery platform
                             </li>
                             <li className="flex flex-row gap-2 items-center">
